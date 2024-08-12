@@ -2,7 +2,7 @@
 
 ## Overview
 
-The EVM Chain Native Token Transfer Bot is a Python-based bot that automates the process of sending out native tokens (e.g., BNB, MATIC, ETH) from YOUR EVM-based wallet. The primary goal of this bot is to enhance the security of crypto owners wallet by automating the transfer of illicit funds in the event of a compromise. By automating this process, the wallet owner can quickly respond to security breaches and protect their assets. Personally, I'd suggest the receiving address to be an hardware wallet (it gives a sense of protection)
+This EVM Chain Native Token Transfer Bot is a Python-based bot that automates the process of sending out native tokens (e.g., BNB, MATIC, ETH) from YOUR EVM-based wallet. The primary goal of this bot is to enhance the security of crypto owners wallet by automating the transfer of illicit funds in the event of a compromise. By automating this process, the wallet owner can quickly respond to security breaches and protect their assets. Personally, I'd suggest the receiving address to be an hardware wallet (it gives a sense of protection)
 
 ## Features
 
@@ -88,4 +88,4 @@ By using this tool, you acknowledge and accept this disclaimer.
 <hr>
 
 
-#### This Project is dedicated to the Open-source community`for now`! ❤️🌹
+#### This Project is dedicated to the Open-source community! `for now` ❤️🌹
