@@ -316,4 +316,5 @@ natspec/
 .solcover.cache
 
 .idea/
+requirements - Copy.txt
 commit.py
