@@ -66,7 +66,7 @@ The EVM Chain Native Token Auto Transfer Bot is licensed under the [GNU General 
 
 # For Enquiries
 
-For questions or issues related to this bot, you can create an issue on the project. If you feel it is private, you can send an email to [Email](mailto:hello@nsisong.com)
+For questions or issues related to this bot, you can create an issue on the project. If you feel it is private, you can send an email to [Email](mailto:ei@nsisong.com)
 
 Thank you for using the **EVM Chain Native Token Auto Transfer Bot**
 
@@ -88,4 +88,4 @@ By using this tool, you acknowledge and accept this disclaimer.
 <hr>
 
 
-#### This Project is dedicated to the Open-source community! ❤️🌹
+#### This Project is dedicated to the Open-source community`for now`! ❤️🌹
