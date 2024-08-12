@@ -16,3 +16,4 @@ sqlparse==0.4.4
 websockets==11.0.3
 Werkzeug==3.0.0
 yarl==1.9.2
+watchdog
