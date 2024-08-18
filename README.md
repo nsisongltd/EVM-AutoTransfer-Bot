@@ -73,6 +73,24 @@ Thank you for using the **EVM Chain Native Token Auto Transfer Bot**
 
 <hr>
 
+# Let's talk Codebase Containers:
+   <!-- <div align="center">
+      <img src=" " alt="light" width="49%">
+   </div> -->
+### Users > 
+
+### Backend >
+- Transfer: Python
+- Web3: Python
+- Config: Python
+- ETH Account: Python
+- ETH ABI: Python
+- ETH Utils: Python
+
+### External Services >
+- Ethereum Node
+- Binance Smart Chain Node
+
 # Disclaimer 
 
 The **"EVM Chain Native Token Auto Transfer Bot"** is provided for educational and security purposes only. It is not intended for any fraudulent or malicious activities. The author and contributors of this tool are not liable for how it is used or for any unlawful activities carried out by individuals using this tool.
